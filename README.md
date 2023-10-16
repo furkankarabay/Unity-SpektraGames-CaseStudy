@@ -1,2 +1,3 @@
 # Unity-SpektraGames-CaseStudy
-Case Study for Spektra Games
+
+# External Packages Used In The Project
